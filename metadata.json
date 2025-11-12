@@ -1,0 +1,5 @@
+{
+  "name": "Samir Hossain's AI Studio",
+  "description": "A premium web application that uses the Gemini API to generate high-quality images from text prompts. Features style presets, aspect ratio controls, light/dark mode, and a credit system.",
+  "requestFramePermissions": []
+}
